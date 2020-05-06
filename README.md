@@ -1,0 +1,1 @@
+# architecturalPattern-starter-kit
